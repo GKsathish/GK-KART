@@ -38,7 +38,7 @@ a:hover {
 .hero-img {
  
 
-    background-image: url("/Images/bg.png");
+    background-image: url("Images/bg.png");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover; /* Ensure the image covers the entire background */
